@@ -18,8 +18,10 @@
     "webpack-cli": "^3.0.2"
   },
   "dependencies": {
+    "css-loader": "^0.28.11",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
+    "style-loader": "^0.21.0",
     "youtube-api-search": "0.0.5"
   }
 }
